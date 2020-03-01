@@ -1,0 +1,11 @@
+{
+  "name": "tempus-e2e",
+  "version": "0.0.1",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtgoitia/tempus-e2e.git"
+  },
+  "license": "ISC",
+  "homepage": "https://github.com/dtgoitia/tempus-e2e#readme"
+}
